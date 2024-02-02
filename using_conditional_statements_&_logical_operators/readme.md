@@ -1,1 +1,1 @@
-
+#In Python, a condition statement evaluates a given expression and executes a block of code if the condition is true. It enables conditional execution, allowing for dynamic program flow based on specific criteria.
